@@ -1,0 +1,115 @@
+
+body {
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+  color: black;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Dancing Script', cursive;
+}
+
+p {
+  color: black;
+}
+
+/* Headings */
+
+.big-heading {
+  font-family: "Montserrat-Black";
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+.section-heading {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+/* Containers */
+
+.container-fluid{
+  padding: 7% 15%;
+}
+
+/* Sections */
+
+
+
+
+/* Title Section */
+
+#title {
+  background-image: url(https://scontent.fmnl8-2.fna.fbcdn.net/v/t1.6435-9/120287471_671980747076008_2469938001474028109_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=e3f864&_nc_ohc=ikHyej0wlIMAX-JDOUe&_nc_oc=AQnqE6c-UB1vzNjVPHovKt5TDz91c4Jd8nj-aMyjyrHd5xMXs6nPZh55tTzBtz5Jkuo&_nc_ht=scontent.fmnl8-2.fna&oh=d77541dcab213f6df7425718a98fcea7&oe=608FE340);
+  color: #fff;
+  text-align: left;
+  padding: 19%;
+}
+
+
+
+/* Title Image */
+
+.title-image {
+  width: 80%;
+
+  position: absolute;
+  right: 1%;
+}
+
+.title-image1 {
+  width: 80%;
+
+  position: absolute;
+  left: 1%;
+}
+
+/* greetings Section */
+
+#greetings {
+
+  padding-bottom: 5%;
+
+
+
+}
+
+.feature-title {
+  font-size: 1.5rem;
+}
+
+.greetings-box {
+  padding: 4.5%;
+}
+
+
+
+/* Testimonial Section */
+
+#tula {
+
+  background-image: url(https://i.pinimg.com/originals/d0/67/5e/d0675e75e10ac79ff8af6245eb4d804b.jpg);
+}
+
+.tula-text {
+  font-size: 3rem;
+  line-height: 1.5;
+  color: black;
+}
+
+.succulent-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+
+
+/* Footer Section */
+
+#footer{
+  margin: 1rem;
+}
+.social-icon {
+  margin: 5px 10px;
+}
